@@ -5,7 +5,7 @@ import image from '../assets/image.png'; // Replace with your image path
 
 const texts = {
   uz: {
-    name: "Salom, men Dilmurodov Diyorbek",
+    name: "Salom, men Dilmurodov Diyorbek man",
     role: "Frontend Dasturchi",
     desc: "Men 7-sinf o‘quvchisiman. Hozirda HTML, CSS, UI dizayn, JavaScript va React bilan ishlayman. Vaqtimni frontend o‘rganishga va o'zim ustimda ishlashga bag‘ishlayman.",
   },

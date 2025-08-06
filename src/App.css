@@ -79,3 +79,9 @@ body {
     opacity: 0;
   }
 }
+@media (max-width: 768px) {
+  .bubble {
+    width: 20px;
+    height: 20px;
+  }
+}
